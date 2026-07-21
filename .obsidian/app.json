@@ -11,12 +11,14 @@
   "foldHeading": true,
   "foldIndent": true,
   "spellcheck": true,
-  "spellcheckLanguages": ["en"],
+  "spellcheckLanguages": [
+    "en"
+  ],
   "alwaysUpdateLinks": true,
   "promptDelete": true,
   "trashOption": "system",
   "tabSize": 2,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": false,
   "showUnsupportedFiles": false,
   "enabledPlugins": [

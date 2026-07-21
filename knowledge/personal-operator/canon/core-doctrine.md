@@ -32,8 +32,8 @@ graduation provenance.
 
 ## 1. What this namespace is
 
-`personal-operator` is the durable model of the operator as an operator: how he works, how he decides, what
-he wants, and how the system should treat his attention and time. It is the operator's identity layer.
+`personal-operator` is the durable model of the operator as an operator: how s/he works, how s/he decides, what
+s/he wants, and how the system should treat his attention and time. It is the operator's identity layer.
 The chief-of-staff department owns it and reads it to do its job: order work, gate attention, schedule
 the day, and track time against goals.
 

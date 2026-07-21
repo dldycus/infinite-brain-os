@@ -1,7 +1,6 @@
 # personal-operator load order
 
-Read canon first, then load by query class. This namespace is small and operator-specific; the load
-order is correspondingly simple.
+Read canon first, then load by query class. This namespace is small and operator-specific; the load order is correspondingly simple.
 
 ## Load first
 

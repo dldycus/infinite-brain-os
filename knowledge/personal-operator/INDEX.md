@@ -1,7 +1,7 @@
 # personal-operator
 
-This is the durable model of the operator as an operator: how he works, how he decides, what he wants, and
-how the system should treat his attention and time. The chief-of-staff department owns this namespace
+This is the durable model of the operator as an operator: how s/he works, how s/he decides, what s/he wants, and
+how the system should treat his/her attention and time. The chief-of-staff department owns this namespace
 and reads it to order work, gate attention, schedule the day, and track time against goals. It is a
 serious retrieval target with a full canon layer.
 
