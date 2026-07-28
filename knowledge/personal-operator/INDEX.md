@@ -33,6 +33,10 @@ Real operator doctrine (trust and maintain):
 - your own surface-fit and tooling decisions land in `decisions/` as you make them.
 - [[namespace-buildout-sprint-pattern]]: a real, reusable namespace buildout and migration
   methodology.
+- [[voice-style-guide-buildout-method]]: a real, reusable method plus blank scaffold for building a
+  directive-format voice style guide for the operator, so an agent can write in his or her actual voice.
+  Genericized, not filled in for any specific operator; copy the blank scaffold and fill it from real
+  samples.
 
 Operator model and reviews (planned; build them as you activate the operator model):
 
@@ -92,6 +96,7 @@ knowledge/personal-operator/
   decisions/
   playbooks/
     namespace-buildout-sprint-pattern.md    # real doctrine
+    voice-style-guide-buildout-method.md    # real doctrine, genericized method plus blank scaffold
   support/
     README.md                    # provenance and the graduation receipt
   synthesis/
