@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/personal-operator/concepts/goal-tracking-and-alignment.md",
+                "file": "automations/n8n/order-export-digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "goal-tracking-and-alignment"
+              "title": "order-export-digest"
             }
           }
         ]
@@ -188,6 +188,10 @@
   },
   "active": "f7910106a809594c",
   "lastOpenFiles": [
+    "automations/README.md",
+    "parties/README.md",
+    "knowledge/personal-operator/synthesis/README.md",
+    "knowledge/personal-operator/concepts/goal-tracking-and-alignment.md",
     "knowledge/personal-operator/canon/README.md",
     "knowledge/personal-operator/canon/core-doctrine.md",
     "knowledge/personal-operator/canon/agent-load-order.md",
