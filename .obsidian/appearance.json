@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "extended-colorschemes",
     "hideproperties"
-  ]
+  ],
+  "theme": "obsidian"
 }

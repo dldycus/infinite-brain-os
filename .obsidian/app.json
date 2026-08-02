@@ -11,9 +11,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "promptDelete": true,
   "trashOption": "system",
