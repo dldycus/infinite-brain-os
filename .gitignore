@@ -26,5 +26,6 @@ __pycache__/
 credentials.json
 service-account-key.json
 
-# Obsidian this is runtime, human view, individual deployments on multiple computers will frequently have different ending states, this prevents any view-orienting configuration from being backed up in git
+# Obsidian vault config, if the root is opened as its own vault. Runtime/human view state,
+# per-machine, never a source of truth.
 .obsidian/
