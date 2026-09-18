@@ -25,3 +25,7 @@ __pycache__/
 *.secret
 credentials.json
 service-account-key.json
+
+# Obsidian vault config, if the root is opened as its own vault. Runtime/human view state,
+# per-machine, never a source of truth.
+.obsidian/
